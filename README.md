@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nileshkumre
 - 👀 I’m interested in ... Backend developer
-- 🌱 I’m currently learning ... ASP.Net
+- 🌱 I’m currently learning ... WebApi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/nilesh-kumre-888a44238/
 - 😄 Pronouns: ...
